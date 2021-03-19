@@ -10,7 +10,8 @@ My son, who is 7, says I should call it Boom Bubble rather than Moment Counter (
 
 ## Design
 
-[Wireframes](https://www.figma.com/file/17vW94nlMz1CYZiXVScEhi/Moment-Counter-%7C-Wireframe?node-id=292769%3A598)
+[Wireframes & Design Intention](https://www.figma.com/file/17vW94nlMz1CYZiXVScEhi/Moment-Counter-%7C-Wireframe?node-id=292769%3A598)
+
 [Basic Prototype](https://www.figma.com/proto/17vW94nlMz1CYZiXVScEhi/Moment-Counter-%7C-Wireframe?node-id=292769%3A772&scaling=min-zoom)
 
 ## Development
